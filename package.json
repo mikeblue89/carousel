@@ -1,0 +1,29 @@
+{
+  "name": "angularsession_2",
+  "version": "1.0.0",
+  "description": "Modules, Scoop, Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeblue89/angularSession_2.git"
+  },
+  "keywords": [
+    "Mike"
+  ],
+  "author": "Michael Efrain Espinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeblue89/angularSession_2/issues"
+  },
+  "homepage": "https://github.com/mikeblue89/angularSession_2#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-animate": "^1.7.8",
+    "angular-sanitize": "^1.7.8",
+    "angular-ui-bootstrap": "^2.5.6",
+    "bootstrap": "^3.3.7"
+  }
+}
