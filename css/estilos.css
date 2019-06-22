@@ -4,3 +4,13 @@
   .navbar-collapse.in {
     overflow-y: hidden;
   }
+
+.item {
+    display: block;
+    width: 100%;
+    height: 200px;
+}
+.item img {
+    height: 100%;
+    width: 80%;
+}
